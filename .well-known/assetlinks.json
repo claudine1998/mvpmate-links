@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.ricestack.mvpmate",
+    "sha256_cert_fingerprints": [
+      "C9:CF:53:01:64:E0:79:8C:34:BA:6A:9F:9F:8A:8B:7B:E8:C3:96:31:74:F7:B9:9C:E9:21:56:0A:6E:29:DA:C3"
+    ]
+  }
+}]
